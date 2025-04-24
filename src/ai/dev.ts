@@ -1,0 +1,1 @@
+import '@/ai/flows/analyze-product-image.ts';
